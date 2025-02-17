@@ -1,0 +1,17 @@
+pymupdf
+
+transformers
+sentence-transformers
+torch
+numpy
+nltk
+tiktoken
+protobuf
+
+faiss-cpu
+
+fastapi
+uvicorn
+
+black
+pylint

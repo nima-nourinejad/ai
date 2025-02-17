@@ -1,0 +1,45 @@
+NIMA NOURINEJAD
+
+
+Subject: Software Engineering Intern (2025) 
+
+
+Dear Wolt Recruitment Team, 
+
+
+I am thrilled to apply for the Backend Engineering Internship at Wolt. Your focus on crafting impactful, scalable solutions aligns perfectly with my technical expertise and passion for backend development. Let me present my qualifications through concrete examples that highlight my readiness to contribute effectively to your engineering team.
+
+Demonstrated Proficiency in Backend Development
+
+
+I developed a School Management API using Python, FastAPI, and SQLAlchemy. This project involved creating robust CRUD operations integrated with PostgreSQL, ensuring seamless database management. To validate the API, I employed rigorous testing strategies, ensuring reliability under various scenarios. These experiences have honed my ability to design and implement scalable backend systems, a skill directly relevant to Wolt’s backend challenges.
+
+To further diversify my backend knowledge, I built Book Haven, a full-stack application for book enthusiasts. The backend, powered by Node.js and Express, is hosted on Render and uses MongoDB Atlas for data storage. Users can log in to add or delete their book suggestions, which are then visible to others. To streamline the user experience, the application allows users to input partial details about books, fetching matching results from the Google Books API to let them select the correct title and author. The Frontend, hosted on GitHub Pages, ensures a seamless interface for accessing and sharing book suggestions. This project enhanced my technical versatility while deepening my understanding of user-centric system design—qualities I admire in Wolt’s innovative products.
+
+Problem-Solving Through Advanced Systems
+
+
+In a team project at Hive Helsinki, I tackled the development of a multi-threaded web server in C++. By leveraging epoll for event-driven architecture, the server efficiently handled concurrent HTTP requests. Addressing the complexity of simultaneous connections required meticulous debugging and performance optimization—skills I’d bring to Wolt when tackling high-traffic backend challenges.
+
+Additionally, I implemented a Custom Unix Shell in C, showcasing my ability to manage processes, signals, and job control. These foundational projects demonstrate my comfort with low-level programming, critical thinking, and iterative problem-solving, all of which translate into robust backend solutions.
+
+
+Alignment with Wolt’s Culture
+
+What excites me most about Wolt is your commitment to mentorship and growth. Transitioning from mechanical engineering and marketing to software development has instilled in me a deep appreciation for continuous learning. At Hive, I thrived in a peer-driven environment where collaboration and knowledge-sharing were key. For example, during a group project on a Dining Philosophers Simulation, I resolved synchronization issues using pthreads and mutexes, while mentoring peers unfamiliar with multithreading concepts.
+
+Beyond technical skills, my background in marketing equips me with a unique perspective on user behavior. This interdisciplinary approach helps me design backend systems that not only perform efficiently but also cater to user needs—mirroring Wolt’s ethos of treating all users equally kind.
+
+
+Why Wolt?
+
+Your Product+ Playbook’s emphasis on ownership resonates deeply with my work ethic. I’ve consistently sought opportunities to take ownership of complex projects, from designing RESTful APIs to optimizing system performance. Joining Wolt would allow me to contribute to meaningful products while learning from some of the best minds in the industry.
+
+In closing, I bring a proven track record of backend development, a collaborative mindset, and an eagerness to grow within Wolt’s innovative environment. I’d be honored to discuss how my skills and experiences align with your team’s goals.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to Wolt’s mission of crafting exceptional user experiences.
+
+
+Sincerely,
+Nima Nourinejad
+
