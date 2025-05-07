@@ -8,6 +8,15 @@ MAIN_MODULE = app.main:app
 .PHONY: setup run clean format check
 
 
+
+
+
+
+
+
+
+
+
 setup:
 	@if [ ! -d $(VENV) ]; then \
 		$(PYTHON) -m venv $(VENV); \
