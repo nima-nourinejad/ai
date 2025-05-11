@@ -18,6 +18,12 @@ setup:
 
 
 
+
+
+
+
+
+
 run:
 	@if [ ! -d $(VENV) ]; then \
 		$(MAKE) setup; \
