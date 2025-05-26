@@ -13,10 +13,6 @@ setup:
 	fi
 	$(VENV)/bin/$(PIP) install -r $(REQUIREMENTS_FILE)
 
-
-
-
-
 run:
 	@if [ ! -d $(VENV) ]; then \
 		$(MAKE) setup; \
