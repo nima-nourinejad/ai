@@ -19,9 +19,6 @@ run:
 	fi
 	$(VENV)/bin/$(UVICORN) $(MAIN_MODULE) --reload
 
-
-
-
 format:
 	$(VENV)/bin/black app
 
