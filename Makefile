@@ -25,8 +25,6 @@ format:
 check:
 	$(VENV)/bin/pylint --disable=missing-docstring app
 
-
-
 clean:
 	rm -rf $(VENV)
 	find . -type d -name "__pycache__" -exec rm -rf {} +
