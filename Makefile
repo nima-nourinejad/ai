@@ -10,6 +10,10 @@ MAIN_MODULE = app.main:app
 
 
 
+
+
+
+
 setup:
 	@if [ ! -d $(VENV) ]; then \
 		$(PYTHON) -m venv $(VENV); \
